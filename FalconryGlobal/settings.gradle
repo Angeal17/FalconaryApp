@@ -1,0 +1,2 @@
+rootProject.name = "FalconryGlobal"
+include ":app"
