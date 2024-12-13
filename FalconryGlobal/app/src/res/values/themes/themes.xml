@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.FalconryGlobal" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Personaliza tu tema aquí -->
+    </style>
+</resources>

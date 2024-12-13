@@ -1,0 +1,17 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        // Ajusta la versión del plugin de Gradle según tu versión de Android Studio
+        classpath 'com.android.tools.build:gradle:8.1.1'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
